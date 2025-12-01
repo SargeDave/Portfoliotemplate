@@ -75,7 +75,7 @@ export function About() {
                   className="text-emerald-400 mb-2"
                   size={24}
                 />
-                <p className="text-white">25+</p>
+                <p className="text-white">2</p>
                 <p className="text-gray-400">Projects Built</p>
               </div>
               <div className="bg-gray-900 p-4 rounded-lg border border-gray-700">
