@@ -10,7 +10,7 @@ const projects = [
     tags: ['Python', 'TensorFlow', 'Keras', 'Firebase', 'Cloud Run'],
     liveUrl: 'https://image2web-1a6c0.web.app/',
     githubUrl: 'https://github.com/SargeDave/Image2Web',
-    stars: 245,
+    stars: 1,
   },
 ];
 
