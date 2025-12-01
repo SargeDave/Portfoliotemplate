@@ -4,32 +4,32 @@ const skillCategories = [
   {
     icon: Code2,
     title: 'Languages',
-    skills: ['JavaScript/TypeScript', 'Python', 'Java', 'C++', 'Go', 'SQL'],
+    skills: ['JavaScript/TypeScript', 'Python', 'Java', 'SQL'],
   },
   {
     icon: Package,
     title: 'Frontend',
-    skills: ['React', 'Next.js', 'Vue.js', 'Tailwind CSS', 'Redux', 'Webpack'],
+    skills: ['React', 'Next.js', 'Tailwind CSS'],
   },
   {
     icon: Database,
     title: 'Backend & Databases',
-    skills: ['Node.js', 'Express', 'PostgreSQL', 'MongoDB', 'Redis', 'GraphQL'],
+    skills: ['Node.js', 'PostgreSQL', 'MongoDB'],
   },
   {
     icon: Cloud,
     title: 'Cloud & DevOps',
-    skills: ['AWS', 'Docker', 'Kubernetes', 'CI/CD', 'Nginx', 'Terraform'],
+    skills: ['AWS', 'Docker', 'Nginx',],
   },
   {
     icon: GitBranch,
     title: 'Version Control',
-    skills: ['Git', 'GitHub Actions', 'GitLab CI', 'Monorepos', 'Code Review'],
+    skills: ['Git', 'GitHub Actions'],
   },
   {
     icon: Terminal,
     title: 'Tools & Methods',
-    skills: ['Linux', 'Agile', 'Testing', 'Microservices', 'REST APIs', 'WebSockets'],
+    skills: ['Linux', 'REST APIs'],
   },
 ];
 

@@ -47,8 +47,8 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-white">Email</p>
-                  <a href="mailto:sarge.moyano@example.com" className="text-gray-300 hover:text-emerald-400">
-                    sarge.moyano@example.com
+                  <a href="mailto:moyanosarge@gmail.com" className="text-gray-300 hover:text-emerald-400">
+                    moyanosarge@gmail.com
                   </a>
                 </div>
               </div>
@@ -59,7 +59,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-white">GitHub</p>
-                  <a href="https://github.com" className="text-gray-300 hover:text-emerald-400">
+                  <a href="https://github.com/SargeDave" className="text-gray-300 hover:text-emerald-400">
                     github.com/sargemoyano
                   </a>
                 </div>
@@ -71,7 +71,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-white">Location</p>
-                  <p className="text-gray-300">San Francisco, CA</p>
+                  <p className="text-gray-300">Angeles City, Pampanga</p>
                 </div>
               </div>
             </div>

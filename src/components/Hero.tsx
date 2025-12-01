@@ -51,7 +51,7 @@ export function Hero() {
 
           <div className="flex justify-center space-x-4 mb-12">
             <a
-              href="https://github.com/SargeDave?tab=repositories"
+              href="https://github.com/SargeDave"
               className="px-8 py-3 bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors flex items-center"
             >
               <Github className="mr-2" size={20} />
@@ -73,13 +73,13 @@ export function Hero() {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/sarge-dave-moyano-103246391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
               className="text-gray-400 hover:text-emerald-400 transition-colors"
             >
               <Linkedin size={24} />
             </a>
             <a
-              href="mailto:sarge.moyano@example.com"
+              href="mailto:moyanosarge@gmail.com"
               className="text-gray-400 hover:text-emerald-400 transition-colors"
             >
               <Mail size={24} />

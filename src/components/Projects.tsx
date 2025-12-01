@@ -84,7 +84,7 @@ export function Projects() {
 
         <div className="text-center mt-12">
           <a
-            href="https://github.com"
+            href="https://github.com/SargeDave"
             className="inline-flex items-center px-6 py-3 border border-emerald-500 text-emerald-400 rounded-lg hover:bg-emerald-500 hover:text-white transition-colors"
           >
             <Github className="mr-2" size={20} />

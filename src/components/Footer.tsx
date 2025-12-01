@@ -45,13 +45,13 @@ export function Footer() {
             <h3 className="mb-4 text-emerald-400">Connect</h3>
             <div className="flex space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/SargeDave"
                 className="p-2 bg-gray-900 rounded-lg hover:bg-emerald-500 transition-colors border border-gray-800"
               >
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/sarge-dave-moyano-103246391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
                 className="p-2 bg-gray-900 rounded-lg hover:bg-emerald-500 transition-colors border border-gray-800"
               >
                 <Linkedin size={20} />
@@ -63,7 +63,7 @@ export function Footer() {
                 <Twitter size={20} />
               </a>
               <a
-                href="mailto:sarge.moyano@example.com"
+                href="mailto:moyanosarge@gmail.com"
                 className="p-2 bg-gray-900 rounded-lg hover:bg-emerald-500 transition-colors border border-gray-800"
               >
                 <Mail size={20} />
